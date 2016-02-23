@@ -230,9 +230,9 @@ var options = 	{
 						users: users,
 					},
 					chaincode:{
-						zip_url: 'https://github.com/mrshah-at-ibm/chaincode/archive/master.zip',
+						zip_url: 'https://github.com/mastersingh24/chaincode/archive/master.zip',
 						unzip_dir: 'chaincode-master/cp_demo',									//subdirectroy name of chaincode after unzipped
-						git_url: 'https://github.com/mrshah-at-ibm/chaincode/cp_demo',			//GO git http url
+						git_url: 'https://github.com/mastersingh24/chaincode/cp_demo',			//GO git http url
 					
 						//hashed cc name from prev deployment
 						deployed_name: 'c9b0b88aad25e7db9108ad61e058d818f70a3a6a5f5fd5c504f68d7f4aded6c4e677b9fe1fe959f2074131426e1d34097ffb96fd357c9f04a203f125f7129f77'
